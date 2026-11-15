@@ -1,0 +1,922 @@
+[
+ {
+  "trace": "pitrace",
+  "pair": 1,
+  "arm": "standard-pi",
+  "position": 1,
+  "returncode": 0,
+  "host_load1_before": 4.28955078125,
+  "host_available_gib_before": 41.1,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 41.18410387300537,
+  "tree_cpu_s": 54.693106,
+  "agent_cpu_s": 1.2,
+  "agent_cpu_last_sample_before_exit_ms": 47.68127700663172,
+  "agent_peak_pss_mib": 168.513671875,
+  "tree_peak_pss_mib": 693.3193359375,
+  "children_peak_pss_mib": 563.552734375,
+  "non_fixture_wall_s": 41.171799120988,
+  "observer_cpu_percent_of_wall": 3.827272930013073,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 27.999999998428393,
+  "resolution_bound_us": 58,
+  "max_sample_gap_ms": 258.9996210008394,
+  "requests_served": 36,
+  "requests_recorded": 36,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 18,
+   "duration": 15
+  },
+  "fidelity_residual_messages": [
+   [
+    5,
+    13
+   ]
+  ]
+ },
+ {
+  "trace": "pitrace",
+  "pair": 1,
+  "arm": "pi-bolt",
+  "position": 2,
+  "returncode": 0,
+  "host_load1_before": 4.7890625,
+  "host_available_gib_before": 40.8,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 40.09425600100076,
+  "tree_cpu_s": 53.812376,
+  "agent_cpu_s": 0.16,
+  "agent_cpu_last_sample_before_exit_ms": 216.238549008267,
+  "agent_peak_pss_mib": 83.4658203125,
+  "tree_peak_pss_mib": 641.8046875,
+  "children_peak_pss_mib": 568.8203125,
+  "non_fixture_wall_s": 40.08150795503752,
+  "observer_cpu_percent_of_wall": 3.3546570859587166,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 27.999999998428393,
+  "resolution_bound_us": 58,
+  "max_sample_gap_ms": 258.99809898692183,
+  "requests_served": 36,
+  "requests_recorded": 36,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 17,
+   "duration": 15
+  },
+  "fidelity_residual_messages": [
+   [
+    2,
+    3
+   ],
+   [
+    5,
+    13
+   ]
+  ]
+ },
+ {
+  "trace": "pitrace",
+  "pair": 2,
+  "arm": "pi-bolt",
+  "position": 1,
+  "returncode": 0,
+  "host_load1_before": 4.4150390625,
+  "host_available_gib_before": 40.2,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 39.125216093001654,
+  "tree_cpu_s": 53.184946999999994,
+  "agent_cpu_s": 0.15,
+  "agent_cpu_last_sample_before_exit_ms": 20.915927016176283,
+  "agent_peak_pss_mib": 82.1630859375,
+  "tree_peak_pss_mib": 663.716796875,
+  "children_peak_pss_mib": 591.0224609375,
+  "non_fixture_wall_s": 39.11379079698236,
+  "observer_cpu_percent_of_wall": 3.263653373734086,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 25.00000000873115,
+  "resolution_bound_us": 58,
+  "max_sample_gap_ms": 258.4823560027871,
+  "requests_served": 36,
+  "requests_recorded": 36,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 17,
+   "duration": 15
+  },
+  "fidelity_residual_messages": [
+   [
+    2,
+    3
+   ],
+   [
+    5,
+    13
+   ]
+  ]
+ },
+ {
+  "trace": "pitrace",
+  "pair": 2,
+  "arm": "standard-pi",
+  "position": 2,
+  "returncode": 0,
+  "host_load1_before": 4.32568359375,
+  "host_available_gib_before": 40.9,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 42.68280968000181,
+  "tree_cpu_s": 55.893995,
+  "agent_cpu_s": 1.26,
+  "agent_cpu_last_sample_before_exit_ms": 21.659427002305165,
+  "agent_peak_pss_mib": 200.1865234375,
+  "tree_peak_pss_mib": 711.62890625,
+  "children_peak_pss_mib": 548.0771484375,
+  "non_fixture_wall_s": 42.665158881864045,
+  "observer_cpu_percent_of_wall": 3.7164905611713537,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 28.00000000570435,
+  "resolution_bound_us": 58,
+  "max_sample_gap_ms": 260.148183995625,
+  "requests_served": 36,
+  "requests_recorded": 36,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 18,
+   "duration": 15
+  },
+  "fidelity_residual_messages": [
+   [
+    5,
+    13
+   ]
+  ]
+ },
+ {
+  "trace": "pitrace",
+  "pair": 3,
+  "arm": "standard-pi",
+  "position": 1,
+  "returncode": 0,
+  "host_load1_before": 4.33984375,
+  "host_available_gib_before": 40.4,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 43.38074142698315,
+  "tree_cpu_s": 56.497657,
+  "agent_cpu_s": 1.25,
+  "agent_cpu_last_sample_before_exit_ms": 7.244749984238297,
+  "agent_peak_pss_mib": 163.3525390625,
+  "tree_peak_pss_mib": 672.650390625,
+  "children_peak_pss_mib": 549.0283203125,
+  "non_fixture_wall_s": 43.36943294201046,
+  "observer_cpu_percent_of_wall": 3.8232105548301614,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 25.99999999802094,
+  "resolution_bound_us": 58,
+  "max_sample_gap_ms": 255.50362400826998,
+  "requests_served": 36,
+  "requests_recorded": 36,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 18,
+   "duration": 15
+  },
+  "fidelity_residual_messages": [
+   [
+    5,
+    13
+   ]
+  ]
+ },
+ {
+  "trace": "pitrace",
+  "pair": 3,
+  "arm": "pi-bolt",
+  "position": 2,
+  "returncode": 0,
+  "host_load1_before": 5.42333984375,
+  "host_available_gib_before": 40.5,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 41.965279007010395,
+  "tree_cpu_s": 55.05023299999999,
+  "agent_cpu_s": 0.16,
+  "agent_cpu_last_sample_before_exit_ms": 99.13306302041747,
+  "agent_peak_pss_mib": 84.7119140625,
+  "tree_peak_pss_mib": 636.826171875,
+  "children_peak_pss_mib": 563.24609375,
+  "non_fixture_wall_s": 41.95187774999067,
+  "observer_cpu_percent_of_wall": 3.4244201563867467,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 31.000000002677552,
+  "resolution_bound_us": 58,
+  "max_sample_gap_ms": 263.20250501157716,
+  "requests_served": 36,
+  "requests_recorded": 36,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 17,
+   "duration": 15
+  },
+  "fidelity_residual_messages": [
+   [
+    2,
+    3
+   ],
+   [
+    5,
+    13
+   ]
+  ]
+ },
+ {
+  "trace": "pitrace",
+  "pair": 4,
+  "arm": "pi-bolt",
+  "position": 1,
+  "returncode": 0,
+  "host_load1_before": 4.9833984375,
+  "host_available_gib_before": 40.3,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 41.74603434401797,
+  "tree_cpu_s": 54.850578,
+  "agent_cpu_s": 0.16,
+  "agent_cpu_last_sample_before_exit_ms": 89.21629600808956,
+  "agent_peak_pss_mib": 81.390625,
+  "tree_peak_pss_mib": 634.2275390625,
+  "children_peak_pss_mib": 562.478515625,
+  "non_fixture_wall_s": 41.73544876190135,
+  "observer_cpu_percent_of_wall": 3.4711387938280764,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 25.00000000145519,
+  "resolution_bound_us": 58,
+  "max_sample_gap_ms": 256.3729039975442,
+  "requests_served": 36,
+  "requests_recorded": 36,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 17,
+   "duration": 15
+  },
+  "fidelity_residual_messages": [
+   [
+    2,
+    3
+   ],
+   [
+    5,
+    13
+   ]
+  ]
+ },
+ {
+  "trace": "pitrace",
+  "pair": 4,
+  "arm": "standard-pi",
+  "position": 2,
+  "returncode": 0,
+  "host_load1_before": 4.35888671875,
+  "host_available_gib_before": 40.6,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 41.80358574001002,
+  "tree_cpu_s": 55.192288000000005,
+  "agent_cpu_s": 1.16,
+  "agent_cpu_last_sample_before_exit_ms": 147.00255601201206,
+  "agent_peak_pss_mib": 167.2294921875,
+  "tree_peak_pss_mib": 676.7041015625,
+  "children_peak_pss_mib": 560.09375,
+  "non_fixture_wall_s": 41.78962683607824,
+  "observer_cpu_percent_of_wall": 3.7537075832663347,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 25.99999999802094,
+  "resolution_bound_us": 58,
+  "max_sample_gap_ms": 259.00884001748636,
+  "requests_served": 36,
+  "requests_recorded": 36,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 18,
+   "duration": 15
+  },
+  "fidelity_residual_messages": [
+   [
+    5,
+    13
+   ]
+  ]
+ },
+ {
+  "trace": "pitrace",
+  "pair": 5,
+  "arm": "standard-pi",
+  "position": 1,
+  "returncode": 0,
+  "host_load1_before": 4.880859375,
+  "host_available_gib_before": 40.7,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 42.63235790899489,
+  "tree_cpu_s": 56.231956,
+  "agent_cpu_s": 1.2,
+  "agent_cpu_last_sample_before_exit_ms": 234.57918799249455,
+  "agent_peak_pss_mib": 165.5849609375,
+  "tree_peak_pss_mib": 674.1796875,
+  "children_peak_pss_mib": 556.916015625,
+  "non_fixture_wall_s": 42.61881945191999,
+  "observer_cpu_percent_of_wall": 3.8342231773558924,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 27.000000001862645,
+  "resolution_bound_us": 58,
+  "max_sample_gap_ms": 261.0375789809041,
+  "requests_served": 36,
+  "requests_recorded": 36,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 18,
+   "duration": 15
+  },
+  "fidelity_residual_messages": [
+   [
+    5,
+    13
+   ]
+  ]
+ },
+ {
+  "trace": "pitrace",
+  "pair": 5,
+  "arm": "pi-bolt",
+  "position": 2,
+  "returncode": 0,
+  "host_load1_before": 5.03515625,
+  "host_available_gib_before": 39.2,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 43.34763326699613,
+  "tree_cpu_s": 57.35962,
+  "agent_cpu_s": 0.19,
+  "agent_cpu_last_sample_before_exit_ms": 222.4003419978544,
+  "agent_peak_pss_mib": 83.0537109375,
+  "tree_peak_pss_mib": 643.03125,
+  "children_peak_pss_mib": 570.4697265625,
+  "non_fixture_wall_s": 43.33394766005222,
+  "observer_cpu_percent_of_wall": 3.671248497462154,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 27.000000001862645,
+  "resolution_bound_us": 58,
+  "max_sample_gap_ms": 256.79735900484957,
+  "requests_served": 36,
+  "requests_recorded": 36,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 17,
+   "duration": 15
+  },
+  "fidelity_residual_messages": [
+   [
+    2,
+    3
+   ],
+   [
+    5,
+    13
+   ]
+  ]
+ },
+ {
+  "trace": "bolttrace",
+  "pair": 1,
+  "arm": "pi-bolt",
+  "position": 1,
+  "returncode": 0,
+  "host_load1_before": 6.080078125,
+  "host_available_gib_before": 39.9,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 70.67487500200514,
+  "tree_cpu_s": 96.78547400000001,
+  "agent_cpu_s": 0.28,
+  "agent_cpu_last_sample_before_exit_ms": 194.62724501499906,
+  "agent_peak_pss_mib": 89.2646484375,
+  "tree_peak_pss_mib": 844.0869140625,
+  "children_peak_pss_mib": 771.607421875,
+  "non_fixture_wall_s": 70.65994116789079,
+  "observer_cpu_percent_of_wall": 4.336758320284319,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 44.99999999825377,
+  "resolution_bound_us": 90,
+  "max_sample_gap_ms": 259.3154689820949,
+  "requests_served": 44,
+  "requests_recorded": 44,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 24,
+   "duration": 21
+  },
+  "fidelity_residual_messages": [
+   [
+    5,
+    13
+   ],
+   [
+    6,
+    16
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    10,
+    24
+   ]
+  ]
+ },
+ {
+  "trace": "bolttrace",
+  "pair": 1,
+  "arm": "standard-pi",
+  "position": 2,
+  "returncode": 0,
+  "host_load1_before": 7.75927734375,
+  "host_available_gib_before": 40.3,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 70.28741466798238,
+  "tree_cpu_s": 96.11930700000002,
+  "agent_cpu_s": 1.68,
+  "agent_cpu_last_sample_before_exit_ms": 10.296806984115392,
+  "agent_peak_pss_mib": 186.068359375,
+  "tree_peak_pss_mib": 905.7255859375,
+  "children_peak_pss_mib": 770.8935546875,
+  "non_fixture_wall_s": 70.27244336291915,
+  "observer_cpu_percent_of_wall": 4.789807196498839,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 46.999999991385266,
+  "resolution_bound_us": 90,
+  "max_sample_gap_ms": 262.973539007362,
+  "requests_served": 44,
+  "requests_recorded": 44,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 23,
+   "duration": 21
+  },
+  "fidelity_residual_messages": [
+   [
+    2,
+    3
+   ],
+   [
+    5,
+    13
+   ],
+   [
+    6,
+    16
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    10,
+    24
+   ]
+  ]
+ },
+ {
+  "trace": "bolttrace",
+  "pair": 2,
+  "arm": "standard-pi",
+  "position": 1,
+  "returncode": 0,
+  "host_load1_before": 7.73974609375,
+  "host_available_gib_before": 39.9,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 67.73840156200458,
+  "tree_cpu_s": 91.33301099999998,
+  "agent_cpu_s": 1.76,
+  "agent_cpu_last_sample_before_exit_ms": 228.91507801250555,
+  "agent_peak_pss_mib": 191.720703125,
+  "tree_peak_pss_mib": 904.5322265625,
+  "children_peak_pss_mib": 756.2529296875,
+  "non_fixture_wall_s": 67.72084714696393,
+  "observer_cpu_percent_of_wall": 4.316085761669219,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 42.000000015832484,
+  "resolution_bound_us": 90,
+  "max_sample_gap_ms": 263.39762000134215,
+  "requests_served": 44,
+  "requests_recorded": 44,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 23,
+   "duration": 21
+  },
+  "fidelity_residual_messages": [
+   [
+    2,
+    3
+   ],
+   [
+    5,
+    13
+   ],
+   [
+    6,
+    16
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    10,
+    24
+   ]
+  ]
+ },
+ {
+  "trace": "bolttrace",
+  "pair": 2,
+  "arm": "pi-bolt",
+  "position": 2,
+  "returncode": 0,
+  "host_load1_before": 10.740234375,
+  "host_available_gib_before": 40.3,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 76.50380334199872,
+  "tree_cpu_s": 99.54525100000001,
+  "agent_cpu_s": 0.26,
+  "agent_cpu_last_sample_before_exit_ms": 209.5413909992203,
+  "agent_peak_pss_mib": 107.53125,
+  "tree_peak_pss_mib": 871.1357421875,
+  "children_peak_pss_mib": 787.376953125,
+  "non_fixture_wall_s": 76.48437584799831,
+  "observer_cpu_percent_of_wall": 4.337861371629551,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 47.00000000593718,
+  "resolution_bound_us": 90,
+  "max_sample_gap_ms": 266.8876890093088,
+  "requests_served": 44,
+  "requests_recorded": 44,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 24,
+   "duration": 21
+  },
+  "fidelity_residual_messages": [
+   [
+    5,
+    13
+   ],
+   [
+    6,
+    16
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    10,
+    24
+   ]
+  ]
+ },
+ {
+  "trace": "bolttrace",
+  "pair": 3,
+  "arm": "pi-bolt",
+  "position": 1,
+  "returncode": 0,
+  "host_load1_before": 10.36181640625,
+  "host_available_gib_before": 40.3,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 69.80529543201555,
+  "tree_cpu_s": 94.232196,
+  "agent_cpu_s": 0.26,
+  "agent_cpu_last_sample_before_exit_ms": 10.077145008835942,
+  "agent_peak_pss_mib": 109.8359375,
+  "tree_peak_pss_mib": 889.7626953125,
+  "children_peak_pss_mib": 793.73828125,
+  "non_fixture_wall_s": 69.79062257098849,
+  "observer_cpu_percent_of_wall": 4.094269419407395,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 42.99999999057036,
+  "resolution_bound_us": 90,
+  "max_sample_gap_ms": 259.73668100778013,
+  "requests_served": 44,
+  "requests_recorded": 44,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 24,
+   "duration": 21
+  },
+  "fidelity_residual_messages": [
+   [
+    5,
+    13
+   ],
+   [
+    6,
+    16
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    10,
+    24
+   ]
+  ]
+ },
+ {
+  "trace": "bolttrace",
+  "pair": 3,
+  "arm": "standard-pi",
+  "position": 2,
+  "returncode": 0,
+  "host_load1_before": 10.25390625,
+  "host_available_gib_before": 40.5,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 67.89213570498396,
+  "tree_cpu_s": 92.85745900000002,
+  "agent_cpu_s": 1.52,
+  "agent_cpu_last_sample_before_exit_ms": 108.89866898651235,
+  "agent_peak_pss_mib": 170.8291015625,
+  "tree_peak_pss_mib": 871.0478515625,
+  "children_peak_pss_mib": 771.0361328125,
+  "non_fixture_wall_s": 67.87842354609165,
+  "observer_cpu_percent_of_wall": 4.422492095471942,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 42.99999999057036,
+  "resolution_bound_us": 90,
+  "max_sample_gap_ms": 262.1445800177753,
+  "requests_served": 44,
+  "requests_recorded": 44,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 23,
+   "duration": 21
+  },
+  "fidelity_residual_messages": [
+   [
+    2,
+    3
+   ],
+   [
+    5,
+    13
+   ],
+   [
+    6,
+    16
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    10,
+    24
+   ]
+  ]
+ },
+ {
+  "trace": "bolttrace",
+  "pair": 4,
+  "arm": "standard-pi",
+  "position": 1,
+  "returncode": 0,
+  "host_load1_before": 7.05712890625,
+  "host_available_gib_before": 40.2,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 66.05205856799148,
+  "tree_cpu_s": 90.69247100000001,
+  "agent_cpu_s": 1.58,
+  "agent_cpu_last_sample_before_exit_ms": 60.300276993075386,
+  "agent_peak_pss_mib": 173.5849609375,
+  "tree_peak_pss_mib": 894.8359375,
+  "children_peak_pss_mib": 782.1171875,
+  "non_fixture_wall_s": 66.03626415890176,
+  "observer_cpu_percent_of_wall": 4.367559092848608,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 42.99999999057036,
+  "resolution_bound_us": 90,
+  "max_sample_gap_ms": 263.0193149961997,
+  "requests_served": 44,
+  "requests_recorded": 44,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 23,
+   "duration": 21
+  },
+  "fidelity_residual_messages": [
+   [
+    2,
+    3
+   ],
+   [
+    5,
+    13
+   ],
+   [
+    6,
+    16
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    10,
+    24
+   ]
+  ]
+ },
+ {
+  "trace": "bolttrace",
+  "pair": 4,
+  "arm": "pi-bolt",
+  "position": 2,
+  "returncode": 0,
+  "host_load1_before": 5.40380859375,
+  "host_available_gib_before": 40.6,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 66.231250412995,
+  "tree_cpu_s": 90.979588,
+  "agent_cpu_s": 0.24,
+  "agent_cpu_last_sample_before_exit_ms": 19.506491982610896,
+  "agent_peak_pss_mib": 115.486328125,
+  "tree_peak_pss_mib": 871.2783203125,
+  "children_peak_pss_mib": 781.005859375,
+  "non_fixture_wall_s": 66.21567277607392,
+  "observer_cpu_percent_of_wall": 4.055581113523681,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 42.00000000128057,
+  "resolution_bound_us": 90,
+  "max_sample_gap_ms": 259.67182900058106,
+  "requests_served": 44,
+  "requests_recorded": 44,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 24,
+   "duration": 21
+  },
+  "fidelity_residual_messages": [
+   [
+    5,
+    13
+   ],
+   [
+    6,
+    16
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    10,
+    24
+   ]
+  ]
+ },
+ {
+  "trace": "bolttrace",
+  "pair": 5,
+  "arm": "pi-bolt",
+  "position": 1,
+  "returncode": 0,
+  "host_load1_before": 4.6123046875,
+  "host_available_gib_before": 40.5,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 67.15360544901341,
+  "tree_cpu_s": 91.280434,
+  "agent_cpu_s": 0.25,
+  "agent_cpu_last_sample_before_exit_ms": 164.01233401848003,
+  "agent_peak_pss_mib": 115.1064453125,
+  "tree_peak_pss_mib": 854.7451171875,
+  "children_peak_pss_mib": 775.6982421875,
+  "non_fixture_wall_s": 67.135531639884,
+  "observer_cpu_percent_of_wall": 4.013532006180015,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 44.00000000896398,
+  "resolution_bound_us": 90,
+  "max_sample_gap_ms": 260.45392200467177,
+  "requests_served": 44,
+  "requests_recorded": 44,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 24,
+   "duration": 21
+  },
+  "fidelity_residual_messages": [
+   [
+    5,
+    13
+   ],
+   [
+    6,
+    16
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    10,
+    24
+   ]
+  ]
+ },
+ {
+  "trace": "bolttrace",
+  "pair": 5,
+  "arm": "standard-pi",
+  "position": 2,
+  "returncode": 0,
+  "host_load1_before": 6.92333984375,
+  "host_available_gib_before": 40.2,
+  "collector_ok": true,
+  "collector_failures": [],
+  "wall_s": 68.62759725798969,
+  "tree_cpu_s": 92.78601699999999,
+  "agent_cpu_s": 1.54,
+  "agent_cpu_last_sample_before_exit_ms": 108.69827200076543,
+  "agent_peak_pss_mib": 186.728515625,
+  "tree_peak_pss_mib": 922.47265625,
+  "children_peak_pss_mib": 778.7509765625,
+  "non_fixture_wall_s": 68.61174070107518,
+  "observer_cpu_percent_of_wall": 4.4290991837778915,
+  "original_cpu_gate_passed": false,
+  "cpu_gap_us": 45.000000012805685,
+  "resolution_bound_us": 90,
+  "max_sample_gap_ms": 258.4236830007285,
+  "requests_served": 44,
+  "requests_recorded": 44,
+  "all_requests_ok": true,
+  "final_files_equal_recorded_delivery": true,
+  "fidelity_volatile_classes": {
+   "timestamp": 23,
+   "duration": 21
+  },
+  "fidelity_residual_messages": [
+   [
+    2,
+    3
+   ],
+   [
+    5,
+    13
+   ],
+   [
+    6,
+    16
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    10,
+    24
+   ]
+  ]
+ }
+]

@@ -1,0 +1,240 @@
+{
+ "note": "Hashes of the local originals and of the copies in this archive. A copy differs from its original only where the home directory path was replaced by ~ (path_redactions) or the host name by \"benchmark host\" (hostname_redactions). Raw evidence stays local and is not in this archive; this manifest can detect change in it but cannot restore it.",
+ "archived_files": [
+  {
+   "archive_path": "REPORT.md",
+   "local_original": "experiment-a/REPORT.md",
+   "local_original_sha256": "677301dfd51ff8c904d2a1d0a754470983d92255d59198853ad2f50d8a39bdc3",
+   "archive_sha256": "677301dfd51ff8c904d2a1d0a754470983d92255d59198853ad2f50d8a39bdc3",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/results/measure-rows.json",
+   "local_original": "experiment-a/results/measure-rows.json",
+   "local_original_sha256": "05b83e5eb25137beae5cb3b3b2d382d10ad69393763f5dea2bbdfafa776e4a0b",
+   "archive_sha256": "05b83e5eb25137beae5cb3b3b2d382d10ad69393763f5dea2bbdfafa776e4a0b",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/results/measure-summary.json",
+   "local_original": "experiment-a/results/measure-summary.json",
+   "local_original_sha256": "046ee60035fc6542ab5a4e0cc61795c183039b88fcd892b30300da8fc67c44c8",
+   "archive_sha256": "046ee60035fc6542ab5a4e0cc61795c183039b88fcd892b30300da8fc67c44c8",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/schedule.json",
+   "local_original": "experiment-a/schedule.json",
+   "local_original_sha256": "2dc128cc526b18f63b110adcfa6578e11d9713ee592c067638aa5ff0b4eb6462",
+   "archive_sha256": "2dc128cc526b18f63b110adcfa6578e11d9713ee592c067638aa5ff0b4eb6462",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/source/accounting.py",
+   "local_original": "experiment-a/source/accounting.py",
+   "local_original_sha256": "c098277afaaca5f4fc65893f5288aef8bfef14ca03986043d829fcb864ff6063",
+   "archive_sha256": "c098277afaaca5f4fc65893f5288aef8bfef14ca03986043d829fcb864ff6063",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/source/analyze.py",
+   "local_original": "experiment-a/source/analyze.py",
+   "local_original_sha256": "7cc546abac655d3ce4d5d86a0a135757aecf070083ab7142edca2fa2edd9993b",
+   "archive_sha256": "7cc546abac655d3ce4d5d86a0a135757aecf070083ab7142edca2fa2edd9993b",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/source/fidelity.py",
+   "local_original": "experiment-a/source/fidelity.py",
+   "local_original_sha256": "ea4a1437cf1dfce4aa26e58208c29a1800a0eb00185a83decbccdd70650f6cff",
+   "archive_sha256": "ea4a1437cf1dfce4aa26e58208c29a1800a0eb00185a83decbccdd70650f6cff",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/source/host_run.py",
+   "local_original": "experiment-a/source/host_run.py",
+   "local_original_sha256": "af4d265a0d026d9b81351ff2168760861e1a544209de10736c79377ed66863c7",
+   "archive_sha256": "f2c9bed00829b5e71bfb5bde1e1aa10b25d70df42652f3dbaed3ad609b51f5bf",
+   "path_redactions": 1,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/source/launch.py",
+   "local_original": "experiment-a/source/launch.py",
+   "local_original_sha256": "0a0e7265350bc8d9334184e101ca1cc2365583da01417bb1283b6d68f6d515bf",
+   "archive_sha256": "0a0e7265350bc8d9334184e101ca1cc2365583da01417bb1283b6d68f6d515bf",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/source/make_spot.py",
+   "local_original": "experiment-a/source/make_spot.py",
+   "local_original_sha256": "32ac9d40c157813f9292ca5e789dd84f606bee8a3810b9d627eae6ff4ab4a39f",
+   "archive_sha256": "32ac9d40c157813f9292ca5e789dd84f606bee8a3810b9d627eae6ff4ab4a39f",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/source/replay_server.py",
+   "local_original": "experiment-a/source/replay_server.py",
+   "local_original_sha256": "8b3780e28ffbb90c475bca878c791277c18281ce7fb08723fc1035b0b7ce47e3",
+   "archive_sha256": "8b3780e28ffbb90c475bca878c791277c18281ce7fb08723fc1035b0b7ce47e3",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "experiment-a/source/run_schedule.py",
+   "local_original": "experiment-a/source/run_schedule.py",
+   "local_original_sha256": "78801c5bfc41e9220ec944b959a24b75edd37ed2df01ce955bbe1c5198a58d01",
+   "archive_sha256": "78801c5bfc41e9220ec944b959a24b75edd37ed2df01ce955bbe1c5198a58d01",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "plan/HANDOFF-v1-superseded.md",
+   "local_original": "phase2b-design/HANDOFF-v1.md",
+   "local_original_sha256": "4665c16f8117ccce48bec6e954bea7daae4164eb3e9a5745d78d0a564db84bac",
+   "archive_sha256": "5bded082022246f645092d32cfeed9c1d8ebdce463edcbdfb64eff0998247fbf",
+   "path_redactions": 1,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "plan/HANDOFF-v2-superseded.md",
+   "local_original": "phase2b-design/HANDOFF-v2.md",
+   "local_original_sha256": "8e29c226cbae168872be2c36e10cb0f911bd7486f797cd4e61839c4a044c34f7",
+   "archive_sha256": "fb95060814b0afb5b0a67850c9b88662bf5d91800d652fb96cd787de38b884d4",
+   "path_redactions": 1,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "plan/HANDOFF-v3-executed.md",
+   "local_original": "phase2b-design/HANDOFF.md",
+   "local_original_sha256": "bfdd2adf7f431937d93bb238f829dce211f45e1588900846f14016b764abc3ea",
+   "archive_sha256": "bfdd2adf7f431937d93bb238f829dce211f45e1588900846f14016b764abc3ea",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "protocols/PHASE-2B-PROTOCOL-v1-original-not-executed.md",
+   "local_original": "phase2b-design/PHASE-2B-PROTOCOL.md",
+   "local_original_sha256": "ced278f3f15dd6754732e62ce69d37b194c290361c008f19886bedfde2e9b024",
+   "archive_sha256": "ced278f3f15dd6754732e62ce69d37b194c290361c008f19886bedfde2e9b024",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "protocols/PHASE-2B-PROTOCOL-v2-proposal-not-approved.md",
+   "local_original": "phase2b-design/PHASE-2B-PROTOCOL-v2-PROPOSAL.md",
+   "local_original_sha256": "3b43607898536a622b1d172ef48e2d88a2bb930df61550b3a3bd2c9fd3c761f7",
+   "archive_sha256": "3b43607898536a622b1d172ef48e2d88a2bb930df61550b3a3bd2c9fd3c761f7",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "protocols/PROPOSED-AMENDMENTS-r3.md",
+   "local_original": "phase2b-design/PROPOSED-AMENDMENTS.md",
+   "local_original_sha256": "8bdb724a517d70cb8dcfdb773488e84795bf5dde1b9912bba52ecbf30851d790",
+   "archive_sha256": "8bdb724a517d70cb8dcfdb773488e84795bf5dde1b9912bba52ecbf30851d790",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "summaries/coding-pilot-pair-protocol.md",
+   "local_original": "subscription-pilot/openrouter-v1/PAIR-PROTOCOL.md",
+   "local_original_sha256": "747418bcd953f81a699286198bd625e6e8d888e4c5fb15dd11c5f3faad3471bf",
+   "archive_sha256": "747418bcd953f81a699286198bd625e6e8d888e4c5fb15dd11c5f3faad3471bf",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "summaries/coding-pilot-report.md",
+   "local_original": "subscription-pilot/openrouter-v1/REPORT.md",
+   "local_original_sha256": "82e1d5dc479731948b3eb59d96227961a5f557ed2f4e49caeffda37d4b6b614e",
+   "archive_sha256": "82e1d5dc479731948b3eb59d96227961a5f557ed2f4e49caeffda37d4b6b614e",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "summaries/coding-pilot-trajectory-findings.md",
+   "local_original": "subscription-pilot/openrouter-v1/TRAJECTORY-FINDINGS.md",
+   "local_original_sha256": "cf9b5dbe10708d58ed2da7e9fe5b57e9fb7f77a51bf330f290cfff4bf2ace7db",
+   "archive_sha256": "cf9b5dbe10708d58ed2da7e9fe5b57e9fb7f77a51bf330f290cfff4bf2ace7db",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "summaries/phase1-minimal-protocol.md",
+   "local_original": "container-phase1/minimal-v1/PROTOCOL.md",
+   "local_original_sha256": "e06e3c63dfdbd9f1fce8379167ed2a908cd929bbd8b75dbb36bf74f872198498",
+   "archive_sha256": "e06e3c63dfdbd9f1fce8379167ed2a908cd929bbd8b75dbb36bf74f872198498",
+   "path_redactions": 0,
+   "hostname_redactions": 0
+  },
+  {
+   "archive_path": "summaries/phase1-minimal-report.md",
+   "local_original": "container-phase1/minimal-v1/REPORT.md",
+   "local_original_sha256": "b9b6fc0f1394a90f03862edbfe7145f2bc1b2933b6798580c204197c195d88ba",
+   "archive_sha256": "eea47c13f203c574022640294be0475f4037d32b801774e09e9f08df80f2d4d0",
+   "path_redactions": 0,
+   "hostname_redactions": 2
+  },
+  {
+   "archive_path": "summaries/phase1-parity-stop-report.md",
+   "local_original": "container-phase1/REPORT.md",
+   "local_original_sha256": "e491076f07da123667f02ef34336e038452f08539a033937c8cd13a168287b0b",
+   "archive_sha256": "ef5b890e1162ede116d8cb1f14fb5a26e71ee06250a8777a934eff4a585b0853",
+   "path_redactions": 0,
+   "hostname_redactions": 1
+  }
+ ],
+ "local_raw_evidence": {
+  "root": ".orbi/benchmark-design (git-ignored, local only)",
+  "inventory_sha256": "8926db9e2755a9b5687c592914f1d4a5554a58f52fa71a1c3ac32c914ef4209c",
+  "inventory_file": "LOCAL-EVIDENCE-INVENTORY.json (local only)",
+  "file_count": 12824,
+  "total_bytes": 1538310630,
+  "by_area": {
+   "(top level)": {
+    "files": 11,
+    "bytes": 138708
+   },
+   "container-phase1": {
+    "files": 7627,
+    "bytes": 586548712
+   },
+   "experiment-a": {
+    "files": 3811,
+    "bytes": 879911745
+   },
+   "phase2b-design": {
+    "files": 43,
+    "bytes": 4265860
+   },
+   "publication-draft": {
+    "files": 9,
+    "bytes": 294613
+   },
+   "subscription-pilot": {
+    "files": 1323,
+    "bytes": 67150992
+   }
+  },
+  "excluded_third_party_trees_file_counts": {
+   "research-archive @ research-archive": 24,
+   "builds @ container-phase1/builds": 15548,
+   "__pycache__ @ subscription-pilot/openrouter-v1": 10,
+   "node_modules @ subscription-pilot/openrouter-v1": 13863,
+   "browser @ subscription-pilot/openrouter-v1": 2160,
+   "chromium-libs @ subscription-pilot/openrouter-v1": 46,
+   "chromium @ subscription-pilot/openrouter-v1": 287,
+   "npm @ subscription-pilot/openrouter-v1": 1931
+  }
+ }
+}

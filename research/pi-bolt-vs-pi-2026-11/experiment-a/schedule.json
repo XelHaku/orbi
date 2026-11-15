@@ -1,0 +1,86 @@
+{
+  "fixed_at_utc": "2026-11-15",
+  "note": "Count fixed before measuring from fidelity-run durations (about 45 s and 70 s per launch): 5 pairs per trace, 20 launches, alternating order; overall 5 pairs Pi-first and 5 Bolt-first. No warmups. 250 ms sampling in every launch.",
+  "pairs": [
+    {
+      "trace": "pitrace",
+      "pair": 1,
+      "order": [
+        "standard-pi",
+        "pi-bolt"
+      ]
+    },
+    {
+      "trace": "pitrace",
+      "pair": 2,
+      "order": [
+        "pi-bolt",
+        "standard-pi"
+      ]
+    },
+    {
+      "trace": "pitrace",
+      "pair": 3,
+      "order": [
+        "standard-pi",
+        "pi-bolt"
+      ]
+    },
+    {
+      "trace": "pitrace",
+      "pair": 4,
+      "order": [
+        "pi-bolt",
+        "standard-pi"
+      ]
+    },
+    {
+      "trace": "pitrace",
+      "pair": 5,
+      "order": [
+        "standard-pi",
+        "pi-bolt"
+      ]
+    },
+    {
+      "trace": "bolttrace",
+      "pair": 1,
+      "order": [
+        "pi-bolt",
+        "standard-pi"
+      ]
+    },
+    {
+      "trace": "bolttrace",
+      "pair": 2,
+      "order": [
+        "standard-pi",
+        "pi-bolt"
+      ]
+    },
+    {
+      "trace": "bolttrace",
+      "pair": 3,
+      "order": [
+        "pi-bolt",
+        "standard-pi"
+      ]
+    },
+    {
+      "trace": "bolttrace",
+      "pair": 4,
+      "order": [
+        "standard-pi",
+        "pi-bolt"
+      ]
+    },
+    {
+      "trace": "bolttrace",
+      "pair": 5,
+      "order": [
+        "pi-bolt",
+        "standard-pi"
+      ]
+    }
+  ]
+}
