@@ -1,10 +1,14 @@
 # Pi vs Pi-Bolt: rough numbers from offline measurement
 
-Draft, 2026-11-15. Local only; not published. Rough engineering numbers, not a
+2026-11-15. Published as part of a curated research archive; raw evidence
+(recorded model streams, agent logs, per-launch samples) remains local, so this
+is not a self-contained reproduction package. Rough engineering numbers, not a
 preregistered study and not a case for changing a default.
 
 Pinned builds: standard Pi 1.5.2 on Node 24.19.0, and Pi-Bolt 1.2.1 (Pi 1.5.2).
-One Linux benchmark host (x86-64, 22 logical CPUs, 62 GiB RAM, Linux 7.0), cached `python:3.12-slim` container, no network, two CPUs, 3 GiB.
+One benchmark host (Ubuntu 24.04.4 LTS, AMD Ryzen 9 5900X, 24 logical CPUs,
+about 62 GiB RAM), cached `python:3.12-slim` container, no network, two CPUs,
+3 GiB.
 
 ## Main finding
 
